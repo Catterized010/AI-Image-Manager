@@ -2,7 +2,7 @@ AI Image Manager
 
 A lightweight desktop app for organizing folders of AI-generated images from Automatic1111 / Forge and ComfyUI. Browse your gens in a Lightroom-style grid, sort them into folders by model and LoRA, find exact duplicates, and see which prompt tags show up most across a folder.
 
-Show Image
+
 
 Features
 Grid library view — thumbnail browser with a resizable column layout and full-size viewer (double-click any image).
